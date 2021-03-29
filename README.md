@@ -19,12 +19,16 @@ We were asked to retrieve the total number of rides for each city type, the tota
 ## Rural Results
 Rural cities accounted for 5% of the rides shared & have less than 3% of the total drivers. Rural cities averaged almost 7% of the Total fares. The average fare per driver is 3x higher than that of urban cities, making each ride much more profitable for the driver in rural cities. 
 
+![alt text](https://github.com/stackanna/PyBer_Analysis/blob/0f8a3e8fc758b739a8ec1f6365ec3dd6a9e6ec07/Analysis/Fig6.png)
+
 ## Suburban Results
 Surbban cities accounted for 26% of the rides shared while employing 16% of the amount of drivers. Suburban cities accounted for 30% of the total fares. The average fare per driver is double that of urban cities and 30% less than suburban cities. 
+
+![alt text](https://github.com/stackanna/PyBer_Analysis/blob/0f8a3e8fc758b739a8ec1f6365ec3dd6a9e6ec07/Analysis/Fig5.png)
 
 ## Urban Results
 Urban cities accounted for 80% of the drivers employed by PyBer and 67% of the rides shared in total. Urban cities accounted for 62% of the total fares. Urban cities have a much higher demand for ride shares than Rural and Urban cities. The demand for drivers is much more significant as the need is higher, although like everything else in life, more demand increases the pool of drivers pricing fares for competitively. Having the lowest fares with the most drivers we can assume it is better to be a rider than a driver in an urban city location for PyBer. 
 
-![alt text](https://github.com/stackanna/PyBer_Analysis/blob/0f8a3e8fc758b739a8ec1f6365ec3dd6a9e6ec07/Analysis/Fig6.png)
+
 ![alt text](https://github.com/stackanna/PyBer_Analysis/blob/0f8a3e8fc758b739a8ec1f6365ec3dd6a9e6ec07/Analysis/Fig7.png)
-![alt text](https://github.com/stackanna/PyBer_Analysis/blob/0f8a3e8fc758b739a8ec1f6365ec3dd6a9e6ec07/Analysis/Fig5.png)
+
