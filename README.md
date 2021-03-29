@@ -34,11 +34,11 @@ Urban cities accounted for 80% of the drivers employed by PyBer and 67% of the r
 
 ## Summary Of PyBer Analysis
 
-## Market PyBer to Drivers to incentize rideshare usage in Rural Areas
+### Market PyBer to Drivers to incentize rideshare usage in Rural Areas
 Rural cities posses the highest profit margin per driver. Law of supply and demand due to the less amount of people per capita decreases the demand of ride shares in comparison to urban cities. There are lesser demand for ride shares, one can assume in a rural location a longer trip length therefore resulting in a higher profit for the driver. The high fare in rural locations are incentives for potential drivers. As PyBer I would use this driver fares as a marketing incentive to market employment to PyBer drivers to rural cities in expansion. It would also increase the amount of drivers which would lower the fare creating more of an incentive for riders to utilize PyBer. Rural cities probably utilize PyBer more out of necessity than convenience. 
 
-## Expand in Suburban cities as profit share is highest for Pyber
+### Expand in Suburban cities as profit share is highest for Pyber
 I would laser PyBers focus on expansion in Urban & Suburban cities over rural as it is a small percentage of the overall profits & rides. Suburban cites which combine both characteristics of rural and urban statistics provide a more leveled view of ride share analysis. Having PyBer in Suburban cities is sizable amount of PyBers’ total fare amount. PyBer generates a higher profit per ride and driver in suburban cities and makes up a good amount of the rides. I would center our focus for profitability purpose on Suburban cities resulting in an increase of its normalcy resulting in more rides.
 
-## Focus on ride share experience, always making Pyber the best option of transportation in Urban cities.
+### Focus on ride share experience, always making Pyber the best option of transportation in Urban cities.
 Although Urban cities have more options of transportation for its residents it still has the most demand for ride shares. Due to the higher concentration of people & shorter distances to location there is less amount made per fare per driver. With less money made per fare one can assume urban cities is a number game. Focus on as many rides as we can complete. Offering PyBer in rural cities is a success in its numbers beating out other options of transportation which one can only assume it is out of convenience. I would insure the profitability of the PyBer in rural cities by focusing on the experience of the ride ensuring it is always a better alternative than other forms of transportation and continue to be the better option available in urban cities. 
